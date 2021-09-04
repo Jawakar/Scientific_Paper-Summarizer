@@ -1,8 +1,5 @@
 # Scientific_Paper-Summarizer
-Fine-tuned SOTA model to generate abstractive based summary with a higher Rouge-2 score.
-</br>
-</br>
-I achieved a higher Rouge-2 score with my fine-tuned BART model that is higher than scores given in the [ScisummNet paper](https://arxiv.org/pdf/1909.01716.pdf)
+I achieved a higher Rouge-2 score by fine-tuning the BART-large-cnn model that is higher than scores given in the [ScisummNet paper](https://arxiv.org/pdf/1909.01716.pdf)
 </br>
 | Summarizer    | 2-R          |
 | ------------- |:-------------:| 
